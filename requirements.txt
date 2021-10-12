@@ -6,4 +6,4 @@ cmake==3.14.4
 dlib==19.17.0
 imutils==0.5.2
 numpy==1.16.4
-opencv-contrib-python==3.3.0.9
+opencv-contrib-python==3.4.0.12
